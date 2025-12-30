@@ -1,0 +1,5 @@
+### Chapter 8: Designing for Assumed Compromise
+- Assumed breach as a design principle
+- Zero trust applied to recovery
+- Separation of production and recovery trust
+- Eliminating hidden dependencies

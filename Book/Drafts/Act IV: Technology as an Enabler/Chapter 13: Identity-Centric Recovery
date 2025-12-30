@@ -1,0 +1,5 @@
+### Chapter 13: Identity-Centric Recovery
+- Identity as a Tier 0 dependency
+- Restoring trust in identity systems
+- Common identity recovery failure modes
+- Sequencing identity before application recovery
